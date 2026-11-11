@@ -1,0 +1,29 @@
+{
+  "format": 1,
+  "samples": [
+    {
+      "slug": "demo-store",
+      "name": "Demo Store",
+      "description": "Captured from the local test store",
+      "tags": [
+        "demo"
+      ],
+      "latest": "v1",
+      "updatedAt": "2026-11-11T10:19:51.909Z",
+      "products": 17,
+      "categories": 18,
+      "preview": [
+        "936d6dde04be77266eaf92b1b93161f4d51a5b2a7c6f6b20d1b103148ccb3011.jpg",
+        "0795b819a704a70e490fb2b9437ab2e878c8eb936f01bfa61c79dcf1f01af023.jpg",
+        "33cdfd74b131f4f87bff68a37cbc2b3e13fe734389ff268e552f72c76b326a95.jpg",
+        "e66724d0174a16178932ec1e540ae3202a7bb9a99427b74d117e56b41a28e068.jpg"
+      ],
+      "sections": [
+        "catalog"
+      ],
+      "languages": [
+        "en"
+      ]
+    }
+  ]
+}

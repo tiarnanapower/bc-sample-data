@@ -1,0 +1,22 @@
+{
+  "formatVersion": 1,
+  "slug": "demo-store",
+  "version": "v1",
+  "capturedAt": "2026-11-11T10:19:51.909Z",
+  "source": {
+    "storeName": "Demo Store"
+  },
+  "defaultLanguage": "en",
+  "sections": {
+    "catalog": {
+      "file": "catalog.json",
+      "counts": {
+        "products": 17,
+        "categories": 18,
+        "brands": 37
+      },
+      "warnings": []
+    }
+  },
+  "images": 64
+}

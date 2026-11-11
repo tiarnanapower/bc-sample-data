@@ -1,0 +1,25 @@
+{
+  "slug": "demo-store",
+  "name": "Demo Store",
+  "description": "Captured from the local test store",
+  "tags": [
+    "demo"
+  ],
+  "latest": "v1",
+  "defaultLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "versions": [
+    {
+      "version": "v1",
+      "date": "2026-11-11T10:19:51.909Z",
+      "notes": "First capture",
+      "formatVersion": 1,
+      "sections": [
+        "catalog"
+      ],
+      "products": 17
+    }
+  ]
+}
